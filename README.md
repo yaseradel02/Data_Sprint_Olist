@@ -38,8 +38,6 @@ Recommendations -
 ⚽ Cross-sell Sports products - Sports customers showed 70.38% category retention, so recommend related Sports products after their first purchase.
 
 🚚 Improve Delivery Speed - Reduce delivery times and prioritize faster fulfillment to improve the customer experience. 
- 
-# 💡 Areas for Further Research
 
 # 📈 Visualizations 
 
