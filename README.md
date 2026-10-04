@@ -26,8 +26,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # 🏁 Conclusion and Recommedations
 
-The dataset has limitations for this analysis, as crime trends can change over time due to various factors. Additionally, a more recent and complete dataset would be helpful for providing a better understanding of reported crime patterns across Los Angeles.
-
 Recommendations -
 
 🛍️ Maximize Black Friday Opportunities — Focus on attractive offers and promotions during Black Friday.
