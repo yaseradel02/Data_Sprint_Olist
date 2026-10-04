@@ -13,8 +13,9 @@ Our main question is: What factors influence customer loyalty, repeat purchases,
 |---|---|
 | `README.md` | Project documentation, problem statement, and executive summary |
 | `notebook/.pynb` | Completed notebook with EDA and Anlaysis |
-| `data/` | Original Dataset |
-| `presentation/.pdf` | Final project presentation |
+| `data/Brazilian E-Commerce` | Original Dataset |
+| `data/Marketing Funnel` | Original Dataset 2 |
+| `presentation/Tech Corp.pdf` | Project Presentation |
 
 # 🗂️ Datasets
 
