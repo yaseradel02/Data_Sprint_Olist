@@ -88,13 +88,13 @@ Sports Category Retention
 
 <img width="740" height="427" alt="image" src="https://github.com/user-attachments/assets/7d1e5278-687c-404d-9497-0a17569b94c7" />
 
-Gateway Categories 
+Gateway Categories
 
-<img width="584" height="481" alt="image" src="https://github.com/user-attachments/assets/5f9258f9-29bf-409e-af9a-856cd1a1ce79" />
+<img width="684" height="479" alt="image" src="https://github.com/user-attachments/assets/f9ff642a-4bf5-4032-9184-35ea0d1ea183" />
 
 Regional Differences in Repeat Purchasing
 
-![Uploading image.png…]()
+<img width="584" height="481" alt="image" src="https://github.com/user-attachments/assets/5f9258f9-29bf-409e-af9a-856cd1a1ce79" />
 
 
 
