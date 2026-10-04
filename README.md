@@ -5,8 +5,6 @@ Olist, a Brazilian e-commerce platform, has attracted a large number of customer
 
 Our main question is: What factors influence customer loyalty, repeat purchases, and churn – and how can Olist improve customer retention?
 
-# 📌 Executive Summary
-
 # 📋 Table of contents
 
 | File | Description |
