@@ -28,15 +28,15 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Recommendations -
 
-🛍️ Maximize Black Friday Opportunities — Focus on attractive offers and promotions during Black Friday.
+🛍️ Maximize Black Friday Opportunities - Focus on attractive offers and promotions during Black Friday.
 
-⭐ Introduce a Loyalty Points Program — Reward customers with points to encourage repeat purchases.
+⭐ Introduce a Loyalty Points Program - Reward customers with points to encourage repeat purchases.
 
-🎟️ Targeted vouchers: Test vouchers/offers for customers buying from high-inactivity categories, such as Fashion Underwear & Beach and Fashion Shoes.
+🎟️ Targeted vouchers - Test vouchers/offers for customers buying from high-inactivity categories, such as Fashion Underwear & Beach and Fashion Shoes.
 
-⚽ Cross-sell Sports products: Sports customers showed 70.38% category retention, so recommend related Sports products after their first purchase.
+⚽ Cross-sell Sports products - Sports customers showed 70.38% category retention, so recommend related Sports products after their first purchase.
 
-🚚 Improve Delivery Speed : Reduce delivery times and prioritize faster fulfillment to improve the customer experience. 
+🚚 Improve Delivery Speed - Reduce delivery times and prioritize faster fulfillment to improve the customer experience. 
  
 # 💡 Areas for Further Research
 
